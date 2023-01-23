@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hook-bai01/static/css/main.6ee7bf01.css",
+    "main.js": "/Hook-bai01/static/js/main.89c1a414.js",
+    "static/js/787.90413281.chunk.js": "/Hook-bai01/static/js/787.90413281.chunk.js",
+    "index.html": "/Hook-bai01/index.html",
+    "main.6ee7bf01.css.map": "/Hook-bai01/static/css/main.6ee7bf01.css.map",
+    "main.89c1a414.js.map": "/Hook-bai01/static/js/main.89c1a414.js.map",
+    "787.90413281.chunk.js.map": "/Hook-bai01/static/js/787.90413281.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ee7bf01.css",
+    "static/js/main.89c1a414.js"
+  ]
+}
